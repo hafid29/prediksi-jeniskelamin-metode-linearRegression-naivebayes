@@ -1,0 +1,1 @@
+# prediksi-jeniskelamin-metode-linearRegression-naivebayes
